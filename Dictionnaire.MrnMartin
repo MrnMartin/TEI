@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire universel 1725 - édition numérique </title>
+            <author>Brutel</author>
+            <respStmt>
+               <resp>Recueilli &amp; compilé par</resp>
+               <name>Mre. ANTOINE FURETIERE</name>
+            </respStmt>
+            <respStmt>
+               <resp>Corrigé &amp; augmenté par</resp>
+               <name>M.BASNAGE DE BEAUVAL</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revu, corrigé &amp; considérablement augmenté par</resp>
+               <name>M. BRUTEL DE LA RIVIERE</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Bibliothèque de la ville de Lyon</distributor>
+            <availability>
+               <p>Publique</p>
+            </availability>
+            <date when="1725">1725 or M. DCC. XXV</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Numérique établie à partir du document original</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="tome" n="3">
+            <div n="L">
+            <head>L</head>
+             </div>
+            </div>
+         <div n="LIG">
+            <head>LIG</head>
+            <entry xml:id="lignée">
+               <form>
+                  <orth>LIGNE'E</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="féminin">f.</gen>
+               </gramGrp>
+               <sense>
+                  <usg>Race</usg>
+                  <def>Enfant, décendants </def>
+                  <cit>
+                     <quote> Dieu pro-
+                        <lb rend="hyphen"/>mis à <persName>Abraham</persName> une <hi rend="italic">lignée</hi> aussi nombreuse que les étoi
+                        <lb rend="hyphen"/>les du ciel.</quote>
+                     <quote> <persName>Jesus Christ</persName>, selon la chair, étoit de la <hi rend="italic">lignée</hi> des Rois de Juda.</quote>
+                     <quote> Dieu a beni le lit de ces per
+                        <lb rend="hyphen"/>sonnes, il leur a donnée <hi rend="italic">lignée.</hi></quote>
+                     <quote> Susciter <hi rend="italic">lignée </hi> à quel
+                        <lb rend="hyphen"/>cun.</quote> 
+                     <quote> Par la Loi Moise un frère étoit obligé de sus
+                        <lb rend="hyphen"/>citer <hi rend="italic">lignée</hi> à son frere en épousant sa veuve.</quote>                  
+                      <note> On le dit quelquefois
+                      dans un sens malin.</note>
+                     <quote>Cet homme a une grande <hi rend="italic">lignée.</hi></quote>
+                     <note><persName>Le Roi III</persName> &amp; la Reine sa femme alloient à <placeName>Chartres</placeName> &amp; à <placeName>Notre-Dame de Cleri</placeName> pour avoir <hi rend="italic">lignée</hi></note>
+                     <note><expan>>Journ.</expan> de Henri III</note>
+                     <quote>Ce Prince mourut dans la sser de <hi rend="italic">lignée.</hi></quote>
+                     <note> Le Poete Mantuan, en parlant de <persName>Saint Hilaire Evêque</persName> de <placeName>Poitiers</placeName>, qui étoit marié, a dit dans son vieux stile;</note>
+                     <quote><hi rend="italic">Ne t'a point nuit d'avoir</hi> lignée,<l>
+                     </l><hi rend="italic">Ni une femme à ton coté :<l>
+                     </l>Car Dieu n'étoit lors si farouche<l>
+                     </l>Et n'avoir encor rejetté<l>
+                     </l>Les nocces, les bers, ni la couche.</hi></quote>
+                     <note>Quelquefois ce mot se prend pour toute la race &amp; la fa-
+                        <lb rend="hyphen"/>mille. </note>
+                     <quote>La <hi rend="italic">lignée</hi> de cette maison finit à un tel.</quote>
+                     <etym>Ce mot vient de ligne, &amp; du Latin <foreign rend="it">linea.</foreign></etym>
+                  </cit>
+               </sense>
+            </entry>
+            
+            <entry xml:id="ligner">
+               <form>
+                  <orth>LIGNER</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="Verbe">v.a</pos>
+               </gramGrp>
+               <sense>
+                  <usg>Terme de Chasse</usg>
+                  <def>Il se dit d'un loup , qui couvre 
+                   une louvre.</def>
+               </sense>
+            </entry>
+            
+            <entry xml:id="ligneuil">
+               <form>
+                  <orth>LIGNEUIL or LIGNEUL</orth>,
+               </form>
+               <note>selon <bibl>L'ACAD</bibl>.</note>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen>
+               </gramGrp>
+               <sense>
+                  <def> Cor-
+                     <lb rend="hyphen"/>don qui se fait de plusieurs fils attachés ensemble par de
+                     la poix, qui sert aux Savetiers &amp; autres Ouvriers à fai-
+                     <lb rend="hyphen"/>re un assemblage grossier de leurs cuirs.</def>
+                  <etym> Ce mot vient de <hi rend="italic">lin</hi>, parcequ'autrefois on employoit du 
+                  <foreign rend="italic">lignol</foreign>, qui en langage Celtique ou Bas-Breton signifie
+                  la même chose. On a dit autrefois <hi rend="italic">lignivol</hi>, &amp; on l'ap-
+                     <lb rend="hyphen"/>pelle encore <foreign rend="italic">lignol</foreign>en Languedoc.
+                  </etym>
+               </sense>
+            </entry>
+            
+            <entry xml:id="ligneux">
+               <form>
+                  <orth>LIGNEUX</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="adjectif">adj.</pos>
+                  <gen expand="masculin">m.</gen>
+               </gramGrp>
+               <sense>
+                  <def> C'est un épithete qu'on donne à la   
+                  partie solide des plantes, &amp; des arbres, qui forme le 
+                  bois.</def>
+                  <cit>
+                     <quote n="1"> On a observé que la tissure du corps <hi rend="italic">ligneux</hi>eft</quote>
+                  </cit>   
+               </sense>
+            </entry>
+            
+            <pb n="103"/>
+               <fw>LIG</fw>
+               <entry>
+                  <cit>
+               <quote n="2">plus ferrée que l'écorce </quote>
+               <note>Il paroit plusieurs cercles dans
+               la substance du corps <hi rend="italic">ligneux</hi>, qui marquent la croissan-
+                  <lb rend="hyphen"/>ce de chaque année, &amp; qui dans ces climats, sont plus 
+                  ferrez du coté Septentrion du Midi</note>
+                  </cit>
+               </entry>  
+            
+               <entry xml:id="ligours">
+                  <form>
+                     <orth>LIGNOURS &amp; LIGURIONS</orth>
+                  </form> 
+                  <sense>
+                   <cit> 
+                     <quote>>ont été employés
+                      pour dire, Gourmands. <bibl>BOREL</bibl></quote>
+                   </cit>    
+                  </sense>
+               </entry>
+            
+               <entry xml:id="ligue">
+                  <form>
+                     <orth>LIGUE</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="féminin">f.</gen>
+                  </gramGrp>
+                  <sense>
+                   <usg>Union;</usg>
+                   <def>traité de consederation entre des
+                   Princes, ou des Etats, pour attaquer un enemi com-
+                   <lb rend="hyphen"/>mun, ou s'en dessendre, quand ils le même interêt
+                   de Religion, ou des Etat.</def>
+                 <cit>
+                   <quote> Ce Prince est entré dans la
+                   <hi rend="italic">ligue.</hi></quote> <quote>La <hi rend="italic">ligue</hi> des Achéens fut le dernier rempart de 
+                   la liberté de la Grece,&amp; ce fut elle qui en produisit les 
+                   derniers Heros, avec Aratus &amp; Philopoemen.<bibl>Boss</bibl>.</quote>
+                </cit>
+                <note>Il y a eu plusieurs <hi rend="italic">Ligues</hi> saintes faites par les Princes
+                 Chrêtiens contre les Sarrasins, &amp; les Infidelles , qu'on
+                  a appellées Croisades.</note> <note>Il y a eu pendant long-terms <hi rend="italic">Li-
+                  <lb rend="hyphen"/>gue</hi> offensive entre les Empereurs &amp; les 
+                  Rois D'Espagne. </note> <note>Il y a eu aussi des <hi rend="italic">Ligues</hi> odieuses de 
+                  Sujets revoltez contre leurs Princes , comme dans les 
+                  guerres de la <hi rend="italic">Ligue</hi> sous <persName>Henri III</persName>&amp; sous <persName>Henri IV</persName>.</note>
+                  <note>C'est celle là que l'on entend .</note> <note> quand on dit simple-
+                  <lb rend="hyphen"/>ment &amp; absolument , la <hi rend="italic">ligue</hi>.</note><note>Le Jesuite Maimbourg
+                  à écrit l'histoire de la <hi rend="italic">Ligue</hi>.</note><note>La <hi rend="italic">Ligue</hi> vint à bout de la 
+                  valeur de <persName>Henri IV</persName>.</note> <note> <persName>Mr de Voltaire</persName> à fait un PoËme
+                  heroique , qui a pour titre <persName>Henri IV</persName>. ou la Ligue.</note> <note>La
+                  <hi rend="italie">ligue</hi> des <placeName>>Provinces-Unies</placeName> des <persName>Pais-BAs</persName> devient néces-
+                  <lb rend="hyphen"/>saire par la cruauté des Gouverneurs.</note>
+                  <etym> Ce mot vient de <foreign rend="italic">liga</foreign> , qu'on a dit dans la basse Latinité'
+                  de <foreign rend="italic">1igare</foreign>, lier.</etym>
+                  </sense>
+                     <re>
+                        <form>
+                           <orth>ligue</orth>
+                        </form>
+                        <def>se dit aussi du complot &amp; des caba'es que plu-
+                           <lb rend="hyphen"/>sieurs particuliers ſont ensemble pour quelque dessein.</def>
+                        <cit>
+                           <quote>Dans cette ville , dans cette compagnie il y a des ligues.</quote>
+                           <quote>Si vous traitez les autres avec hauteur , ils font de leur
+                              coté <hi rend="italic">ligue </hi> offensive &amp; deffensive, pour vous détruire.<bibl>BELL</bibl>.</quote>
+                           <quote>Les devots font ligue offensive &amp; deffensive ,
+                              pour donner de la reputation à qui il leur plait. <bibl>ID</bibl></quote><quote>La
+                                 <hi rend="italic">ligue</hi> offensive &amp; deffensive de Mellieurs les Auteurs.
+                                 <bibl> MOL.</bibl> En ce sens-là il se dit toujours odieusement.</quote>
+                        </cit>
+                     </re>       
+               </entry>
+               <entry xml:id="ligues">
+                  <form>
+                     <orth>ligues</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="féminin">f.</gen>
+                  </gramGrp>
+                  <sense>
+                     <usg>Terme D'Histoire &amp; de Géographie</usg>
+                     <def> C'est
+                        le nom general que l'on donne aux trois corps qui com-
+                        <lb rend="hyphen"/>posent la République des Grisons , qui ſont la <hi rend="italic">Ligue
+                        Grise</hi> , la <hi rend="italic ">Ligue de la maison de Dieu </hi> , &amp; la <hi rend="italic">Ligue des dix
+                        Droitures.</hi></def>
+                      <cit>
+                        <quote> Ces trois <hi rend="italic">Ligues</hi> ſont alliez des Suisses sans 
+                        être de leur corps.</quote> <note> En general on les appelle les <hi rend="italic">Gri-
+                        <lb rend="hyphen"/>sons.</hi> Ils prosessent la plûpart la Religion Réformée.</note>
+                        <note>Ils possedcnt en commun la Valteline, qui est Catho-
+                           <lb rend="hyphen"/>lique &amp; qui est un passage du <placeName>Tirol en Italie.</placeName></note> 
+                        <note>On a appellé aussi , <hi rend="italic">Ligue hereditaire</hi> , celle que sirent les 
+                        Suisses avec <persName>L'Archiduc Maximilien</persName>.</note> <note>On trouve les 
+                        Traitez de toutes les <hi rend="italic">Ligues</hi> particulieres dans le Monde 
+                         de <persName>Davity</persName>.</note>
+                      </cit>
+                   </sense>   
+               </entry> 
+            
+               <entry xml:id="liguer">
+                  <form>
+                     <orth>LIGUER</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="verbe">v.</pos>
+                     <pos expand="nom propre">n.p</pos>
+                  </gramGrp>
+                  <sense n="1">
+                     <def>Unir &amp; considerer plusieurs
+                      Princes ensemble dans les mêmes interêts ; joindre 
+                        leurs forces.</def>
+                     <cit>
+                     <quote> Les Hollandois avoient <hi rend="italic">ligné</hi>toute l'Eu-
+                        <lb rend="hyphen"/>rope contre le Roi.</quote>
+                        <quote>Les Princes <placeName>d'Italie</placeName> s'étoient liguer contre <persName>Charles VIII </persName> pour s'opposer à son retour en 
+                        <placeName>France</placeName>.</quote>
+                     </cit>
+                     </sense>
+                     <re>
+                        <form>
+                           <orth>liguer</orth>
+                        </form>
+                        <def>Ce dit des particuliers qui font des cabales, &amp;
+                        ce joignent ensemble pour détruire ou faire reussir quel-
+                           <lb rend="hyphen"/>que chose.</def>
+                        <cit>
+                           <quote>Les principaux Officiers ce <hi rend="italic">liguerent</hi>ensem-
+                           <lb rend="hyphen"/>ble pour le créer Empereur. <bibl>FLECH</bibl>.</quote>
+                           <quote> Les enfants se <hi rend="italic">liguerent </hi> contre leur pere. Les Comediens ce sont <hi rend="italic">liguez</hi>
+                            pour empêcher qu'on ne joüât une telle place.</quote>
+                           <quote>Les pe-
+                              <lb rend="hyphen"/>tits Auteurs se sont <hi rend="italic">liguez</hi>, <bibl>OIR</bibl> fait une cabale pour la
+                               décrier.</quote>
+                           <quote><l>En vain contre le Cid un Ministre ce ligue;</l>
+                              <l>Tout Paris pour Chimone a les yeux de <persName>Rodrigue</persName></l><bibl>BOIL</bibl></quote>
+                        </cit>
+                  </re>
+               </entry>
+            
+               <entry xml:id="ligué">
+                  <form>
+                     <orth>LIGUÉ</orth>,
+                     <orth type="part">LIGUÉE</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="participe passée">part pass.</pos>
+                  </gramGrp>
+               </entry>
+            
+                  <fw>LIG. LIL</fw>
+               <entry xml:id="ligueur">
+                  <form>
+                     <orth>LIGUEUR</orth>
+                     <orth type="part">EUSE</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="adjectif">adj.</pos>
+                  </gramGrp>
+                  <sense>
+                     <def> Qui est d'une Ligue.
+                    Il ne ce 
+                        dit qu‘en mauvaise part des sujets qui ſont revoltez con-
+                        <lb rend="hyphen"/>tre leur Prince , &amp; il s’est dit sur tout de ceux de la Li-
+                        <lb rend="hyphen"/>gue de <placeName>France</placeName> sous <persName>Henri III.</persName> &amp; sous <persName>Henri IV.</persName> </def>
+                     <cit>
+                     <quote>Les
+                     Royalistes &amp; les <hi rend="italic">Ligueurs</hi> étoient deux partis contraires.
+                      Les <hi rend="italic">ligueurs</hi>avoient dessein d'empêcher que <persName>Henri Roi 
+                         de Navarre</persName> ne parvint à la couronne <persName>MEM. DE HENRI.</persName>
+                     L'armée des <hi rend="italic">Ligueurs</hi> fut bien battue à <placeName>Coutras></placeName>.Un
+                     tel Prince étoit grand <hi rend="italic">Ligueur</hi>. La Duchesse de Mer-
+                        <lb rend="hyphen"/>coeur étoit une grande <hi rend="italic">Ligeuse.</hi></quote>
+                     </cit>   
+                  </sense>
+               </entry>
+            
+               <entry xml:id="ligusticum">
+                  <form>
+                     <orth>LIGUSTICUM</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="masculin">m.</gen>
+                  </gramGrp>
+                  <sense>
+                     <def>Plante qui a pris son nom de la
+                     Ligurie, contrée d'<placeName>Italie</placeName> que nous appellons aujourd'hui
+                        <placeName>la Riviere de Genes</placeName>; parceque la plante que les An-
+                        <lb rend="hyphen"/>ciens ont appelée de ce nom , ce trouvoit en abondance
+                        dans ces quartiers , à ce que raporte Dioseoride. Voyez</def>
+                        <xr>
+                           <ref target="#liveshe">LIVESHE</ref> &amp;
+                        </xr>
+                  </sense>
+               </entry>
+                     <fw>LIL.</fw>
+                  <entry>
+                  <form>
+                     <orth>LILAC ou LILAS</orth>
+                     <pron>LilaS</pron>
+                  </form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="masculin">m.</gen>
+                  </gramGrp>
+                  <sense>
+                     <def>On dit <hi rend="italic">lilas</hi> &amp; non pas <hi rend="italic">lilac</hi> .
+                        <bibl>>MEN</bibl>. Arbrisseau sont les tiges sont menuës , droites; 
+                        rameuses, remplies d’une moële blanche &amp; fongueuse; 
+                        ses feuilles sont opposées l'une à l'autre, larges, 
+                        pointues; , lisses , molles , verres , luisates : ses 
+                        fleurs ſont petites , disposées en longues grapes , de 
+                        couleur ordinairement bleue', quelquefois blanche ou 
+                        cendrée &amp; comme argentée , d'une odeur douce &amp; fort 
+                        agréable ; chacune de ces fleurs est un tuyau évasé par 
+                         le haut , &amp; découppé le plus souvent en quatre parties: 
+                        son fruit est applati , oblong , ordinairement sembla-
+                        <lb rend="hyphen"/>ble un serde pique; il prend une couleur rouge en
+                        meurissant: ce ſruit se partage en deux loges qui con-
+                        <lb rend="hyphen"/>tiennent des semences menuës , oblongues ,applaties 
+                        &amp; comme ailées , de couleur rousse.</def>
+                        <note>On cultive cette
+                           plante dans les jardins a cause de la beauté de sa fleur.</note> 
+                        <etym>Son origine vient des Indes Orientales.</etym>
+                        <cit>
+                        <quote>Un <hi rend="italic">lilas</hi> blanc,
+                        un <hi rend="italic">lilas</hi> violet.</quote> <quote>Le <hi rend="italic">lilas</hi> de Perse est dit <hi rend="italic">ligustrum Persa-
+                        <lb rend="hyphen"/>rum.</hi></quote> <quote>Il ne croît pas fort haut, ni ſort étendu. C'est
+                        une ſorte de <hi rend="italic">lilas</hi> plus petit que les autres , &amp; dont la
+                         feuille est coupée &amp; dentelée.</quote>
+                        </cit>
+                           <etym><foreign rend="italic">Lilac</foreign> est un nom Arabe; mais quelques-uns le dérivent de
+                        <hi rend="italic">lilium</hi> , à cause que sa fleur a la figure d'un petit lis ; ou
+                              à cause du rapport de son odeur avec celle du lis. <bibl>MEN</bibl></etym>
+                        <note><persName>C. Bauhin</persName> l'appelle <hi rend="italic">Syringa carulea,</hi>&amp; <persName>Mr. Tourne-
+                           <lb rend="hyphen"/>fort</persName>, <hi rend="italic">Lila Mathioli</hi>. Il y a quelques autres especes de
+                        <hi rend="italic">lilas</hi>.</note>
+                  </sense>
+               </entry>
+               <entry xml:id="lilith">
+                  <form>
+                     <orth>LILITH</orth>
+                  </form>
+                  <sense>
+                     <usg> Les juifs appellent ainsi un Spectre nocturne 
+                        qui enleve, à ce qu'ils prétendent, les enfants les tue.</usg>
+                     <note> C'est pourquoi lorsqu'une femme est accouchée, on a
+                     accoutumé de mettre sur de petits billets aux quatre
+                      coins de la chambre où la femme est en couche ces mots;
+                        <hi rend="italic"><persName>Adam , Eve</persName> , loin d'ici Lilith </hi> , avec le nom de trois Anges;
+                        &amp; cela pour garentir l'enfant de tout sortilege. </note> <note>Ce sont
+                       sur tout les juifs d'<placeName>Allemagne</placeName> qui pratiquent ces super-
+                          <lb rend="hyphen"/>stitions. Ailleurs ils pendent des amulettes au cou des
+                          enfans. <persName>LEON DE MODINA</persName>. Selon les sables des Juifs
+                        <hi rend="italic">Lilith </hi>étoit la premiere femme d'<persName>Adam</persName>, laquelle refu-
+                          <lb rend="hyphen"/>sant de se soumettre à lui le quitta , &amp; s'en alla dans l'air 
+                         par un secret de magie.</note> 
+                  </sense>
+               </entry>
+            
+                <fw>LIM</fw>
+               <entry xml:id="limace">
+                  <form>
+                     <orth>LIMACE</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="féminin">f.</gen>
+                  </gramGrp>
+                  <sense>
+                     <usg>Insecte</usg>
+                     <xr>
+                        <ref target="#limaçon">LIMAçON</ref> &amp;
+                        <ref target="#limas">LIMAS</ref>
+                     </xr>
+                     </sense>
+                     <re>
+                        <form>
+                           <orth>limace</orth>
+                        </form>
+                        <def>On donne ce nom à une certaine machine,
+                           qu'on appelle la vis <persName>d’Archimede</persName>. C'est un canal ap-
+                           <lb rend="hyphen"/>plique' en forme de vis autour d'un cylindre , qu'on ap-
+                           <lb rend="hyphen"/>pelle noyau , dont on se sert pour faire monter l'eau. Il
+                           faut donner à la lima une certaine pente, pour attirer </def>
+                     </re>
+                        <pb n="104"/>
+                        <fw>LIM</fw> 
+                     <sense>
+                  <def n="2">l'eau plus facilement.</def><note>Voyez </note>
+                        <xr>
+                           <ref target="#ozanam">OZANAM</ref>
+                        </xr> 
+                        <note>qui a fait la des-
+                        <lb rend="hyphen"/>cription de cette machine.</note>
+                  </sense>
+                  </entry>
+            
+               <entry xml:id="limaçon">
+                  <form>
+                     <orth>LIMAçON</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="masculin">m.</gen>
+                  </gramGrp>
+                  <sense>
+                     <def>Insecte long &amp; gros ä peu près com-
+                        <lb rend="hyphen"/> me le pouce, rond , mou , ſort humide , visqueux ,
+                        limonncux, rampant , d'un tempérament fort froid ,
+                        se remuant très lentement , poussant de chaque coté de
+                        sa tête deux cornes chaperonnées , tachetées en leur ex-
+                         <lb rend="hyphen"/>tremité, &amp; marquées duneligne noire le long dc leur
+                         cavité; l'animal se sert de ces cornes pour ſonder le
+                         gué de tous cotez , &amp; il les retire avec beaucoup de vi-
+                         <lb rend="hyphen"/>tesse. Il jette une maniere de bave gluantc &amp; luisante. 
+                         Le <hi rend="italic">limaçon</hi> ſort d’un oeuſ,&amp; quand on lui a coupé la
+                         tête, on y trouve une petite pierre qui est bonne à ce
+                         qu'on dit pour la gravelle , sous laquelle on trouve son
+                         cœur qui bat; il est d'une couleur blanche , aussi bien
+                         que les veines &amp; de petites oreilles , dont la substance
+                         est membraneuse : ce quele limaçon a de particulier ,
+                          c'est qu'il rejette son excrement par le col; qu'il respire
+                          par là ; &amp; que toutes les parties propres à la generation
+                          y sont renſermées; &amp; que chaque limaçon est mâle &amp;
+                         femelle tout ensemble , ayant la verge très-longue , &amp; 
+                         faite comme celle d'une baleine.</def> <note>Voyez sur Cette ma-
+                        <lb rend="hyphen"/>tiere <bibl>L'HIST. DE L’AC. R, Des Sc. T. X</bibl>.</note> <cit> <quote>Quand 
+                        on veut examiner avec exactitude leur accouplement,
+                        il ſaut les jetter accouplés dans du vinaigre, ils y meurent
+                         bientôt , &amp; alors il est facile de voir la disposition des
+                         parties. <bibl><persName>Mr. Ray</persName></bibl> a remarqué le premier que toutes les
+                           especes de ces animaux sont hermaſrodites. <hi rend="majuscule"><bibl>LISTER</bibl></hi>.</quote></cit>
+                        <note> On prétend que le mouvement du cœur dans
+                        ces ſortes d'animaux n'est pas purement naturel, mais
+                        qu'il est aussi volontaire , en ſorte qu'ils peuvent le sus-
+                        <lb rend="hyphen"/>pendre &amp; le renouveller , comme il leur plait , &amp; cela
+                        pose on rend facilement raison de la longue resistance
+                         que sont ces animaux aux efforts de la pompe pneumati-
+                           <lb rend="hyphen"/>que. <bibl>ID</bibl>. Les <hi rend="italic">limaçons</hi> paroissent en quantité après la
+                        pluye.</note> 
+                            <etym>Les <hi rend="italic">limaçons</hi> à coquille s'appellent aussi <hi rend="italic">escargot,</hi>
+                        &amp; en Latin <foreign rend="italic">cochlea</foreign>. Ceux qui sont sans coquille , s'ap-
+                           <lb rend="hyphen"/>pellent proprement <hi rend="italic">limas</hi> ou <hi rend="italic">limaces</hi> , &amp; Latin <foreign rend="italic">limax.</foreign></etym>
+                        <note>Il y a de plusieurs especes de <hi rend="italic">limaçons</hi> qui different en 
+                        couleur &amp; grosseur. Les uns sont renfermez dans
+                         des coquilles qui se sont formées avec eux: les autres
+                         naissent nuds &amp; demeurent toûjours de même. Les
+                        premiers sont blancs,. ils se trouvent dans les hayes;
+                        ils vivent de roſée, d'herbes. Les autres sont tantôt
+                         blancs , tantôt rouges ; ils habitent les caves ,les puits
+                        &amp; les'autres lieux humides; ces derniers croissent plus
+                         gros que ceux qui ont des coquilles; ils vivent de li-
+                        <lb rend="hyphen"/>mon. Il y en a d'autres qui se tiennent au soleil , &amp;
+                        qui se nourrissent d'herbes odorantes. comme de serpo-
+                           <lb rend="hyphen"/>let , de poliot, d'origan ; ceux là sont bons à manger.
+                        Ceux des lieux ombrageux sentent la bourbe &amp; le li-
+                        <lb rend="hyphen"/>mon. Les <hi rend="italic">limas</hi> de rivière ont une très-mauvaise sen-
+                        <lb rend="hyphen"/>tcur. Il y en a qu'on fouït en terre avec une pioche ,
+                        parcequ'ils s'y cachent en hiver, dont la coquille est
+                         blanche &amp; dure ; &amp; ils sont meilleurs que ceux du prin-
+                        <lb rend="hyphen"/>tems ou de l'été. Pline dit que les Romains en étoient
+                        si sriands , qu'ils les nourrissoient en garenes , ou vi-
+                        <lb rend="hyphen"/>viers prepare: exprès, &amp; qu'ils les separoient en diffe-
+                        <lb rend="hyphen"/>rentes especes , ausquelles ils donnoient divers noms &amp;
+                         nourritures , &amp; ils en discernoicnt le goût en les man-
+                        <lb rend="hyphen"/>geant. Dans les <placeName>Iles de l'Archipel</placeName> il y a des li-
+                        <lb rend="hyphen"/><hi rend="italic">maçons</hi> de mer, qui sont de même genre que ceux de
+                         nos jardins; leur coquille est à peu près de même force
+                        &amp; de même grosseur , mais elle a à peu près une ligne
+                        d'épaisseur: c'est une nacre luisante en dedans; le de-
+                        <lb rend="hyphen"/>hors est le plus souvent d’une écorce tartareuse &amp; gri-
+                        <lb rend="hyphen"/>sâtre, sous laquelle la nacre est marbrée de taches noi-
+                        <lb rend="hyphen"/>res disposées comme en échiquier : il s'en trouve quel-
+                        <lb rend="hyphen"/>ques unes ſans écorce , à Fond roussâtre &amp; à taches noi-
+                        <lb rend="hyphen"/>titres. Ce poisson qui est long-tems hors de l'eau se
+                     <fw>LIM</fw>
+                     promene sur les rochers. Les <hi rend="italic">limaçons de mer</hi> valent
+                      beaucoup mieux que les yeux de bouc , si on les mange ,
+                      cruds , &amp; sont préſerables aux <hi rend="italic">limaçons de terre </hi> , si on
+                     le ſait bouillir dans l'eau. <abbr>VOY</abbr> <hi rend="italic">de Tournefort.</hi></note>
+                       <etym>Du Latin <foreign rend="italic">limax</foreign> ,qui vient de <hi rend="italic">limus, bouë</hi>,limon, parce-qu'on
+                          a cru que les limaçons se forment de bouë &amp; de limon.</etym> 
+                      <cit>
+                      <quote>LIMACE ,<hi rend="italic">limas, limaçon , colimaçon.</hi> Le Dictionaire
+                       de l'Academie met ces quatre mots. Cependant je ne
+                       voudrois me servir que de <hi rend="italic">limaçon</hi>. <bibl>REFL</bibl></quote></cit>
+                      <note>On dit qu'un Escalier est fait en <hi rend="italic">limaçon</hi> , quand il est
+                      en forme de vis, dont les marches sont rangées au-
+                         <lb rend="hyphen"/>tout d'un cylindre de pierre, ou de bois.</note>
+                     </sense>  
+                     <re>
+                        <form>
+                           <orth>limaçon</orth>
+                        </form>   
+                          <def> Se dit aussi de quelques voutes &amp; de quel-
+                             <lb rend="hyphen"/>ques trompes qui aboutissent en <hi rend="italic">limaçon</hi></def> . Voyez
+                           <xr>
+                              <ref target="#voute">VOUTE</ref>
+                           </xr>     
+                     </re>
+                     <re>
+                        <form>
+                           <orth>limaçon</orth>
+                        </form>
+                        <usg>Terme d'Anatomie.</usg>
+                        <def>Cavité de l'oreille.</def> Voyez
+                        <xr>
+                           <ref target="#coquille">COQUILLE</ref>
+                        </xr> 
+                        <note>
+                           On dit proverbialemcnt d'un homme de neant qui veut pa-
+                           <lb rend="hyphen"/>roitre au dessus de sa condition, que c'est un <hi rend="italic">limaçon</hi>
+                           qui sort de sa coquille
+                        </note>
+                     </re>
+                  </entry>
+            
+                   <entry xml:id="limaille">
+                     <form>
+                         <orth>LIMAILLE</orth>
+                     </form>
+                       <gramGrp>
+                          <pos expand="substantif">s.</pos>
+                          <gen expand="feminin">f.</gen>       
+                       </gramGrp>
+                     <sense>
+                      <def>Poudre ou petits filets qui se detachent 
+                         de metaux qu'on trote avec la lime.</def>
+                        <cit>
+                        <quote>On nourrit
+                           l'aimant avec de la <hi rend="italic">limaille</hi> de fer pour l'entretznir en sa
+                        force.<persName> Mr. Lcmery</persName> a éprouvé qu'en versant un acide sur
+                        une certaine quantité de <hi rend="italic">limaille</hi> de ſer, elle perd la
+                         proprieté d'être attirée. par l'aiman. <bibl>FONTEN</bibl></quote></cit>. <note>Les
+                         Orsevres ont grand soin de recueillir les <hi rend="italic">limaille</hi>: d'or;
+                         &amp; d'argent. Les Chymistes sont un bain de <hi rend="italic">limaille</hi>,
+                        pour avoir un degré de chaleur de feu qu'on allume
+                          sous de la <hi rend="italic">limaille </hi>.</note><note> La <hi rend="italic">limaille</hi> d'aiguilles est le fer 1e
+                         plus propre pour faire des préparations chymiques.</note><note> Les 
+                         <hi rend="italic">limaille</hi>: d’épinglcs servent à plomber des pots de terre.;
+                        La <hi rend="italic">limaille</hi> d'acier est propre pour lever les obstructions, 
+                         pour la jaunisse, pour les maladies de la rate; la dose
+                        en est depuis un scrupule jusqu'à une dragme.</note>
+                     </sense>
+                  </entry> 
+            
+                  <entry xml:id="limaire">
+                     <form>
+                         <orth>LIMAIRE</orth>
+                     </form>
+                         <gramGrp>
+                            <pos expand="substantif">s.</pos>
+                            <gen expand="masculin">m.</gen>   
+                         </gramGrp>
+                      <sense>
+                         <def>Nom que l'on donne au Thon lorsqu'il
+                         commence â grossir. On ne l'appelle Thon que quand
+                          il passe un pied de grandeur.</def>
+                      </sense>
+                    </entry>
+            
+                    <entry xml:id="limande">
+                       <form>
+                           <orth>LIMANDE</orth>
+                       </form>
+                           <gramGrp>
+                              <pos expand="substantif">s.</pos>
+                              <gen expand="feminin">f.</gen>     
+                           </gramGrp>
+                    <sense>
+                            <def>Petit poisson de mer qui est de la figure
+                            des carrelets; mais plus plat &amp; plus mince. Il est cou-
+                            <lb rend="hyphen"/>vert de petites écailles rudes, fortement attachés à sa 
+                            peau. Sa chair est blanche, molle, humide, un peu
+                            glutineuse. <hi rend="italic">La limande</hi> est assez bonne quand elle est
+                            bien fraiche, &amp; bien assaisonnée. Elle est pectorale,
+                            &amp; propre pour adoucir l'acreté des humeurs. <hi rend="italic">Limanda</hi>
+                            frite. </def>
+                    </sense>
+                    <re>
+                       <form>
+                          <orth>limande</orth>
+                       </form>
+                       <usg>Terme de Charpentier.</usg>
+                       <def>Piece de bois de
+                          ſiage, platre, peu large &amp; peu épaisse. Les pieces
+                          qui servent à tenir &amp; à lever les lançoirs ou palles d'un
+                          moulin , s'appel‘ent des <hi rend="italic">limandes.</hi></def>
+                    </re>
+                   </entry>
+            
+                    <entry xml:id="limas">
+                       <xr>
+                          <ref target="#Limace">LIMACE</ref>
+                       </xr> 
+                       <form>
+                          <orth>Limas</orth>
+                       </form>
+                       <gramGrp>
+                          <pos expand="substantif">s.</pos>
+                          <gen expand="masculin">m.</gen> 
+                       </gramGrp>
+                       <sense>
+                          <def>Limaçon qui n'a point de
+                         coquille &amp; qui est ordinairement rougeâtre; il ronge les 
+                         feuilles &amp; mange les fruits. Il faut ôter les <hi rend="italic">limas</hi> de
+                         ce jardin. Une grosse <hi rend="italic">limace</hi>. Voyez .</def> 
+                             <xr>
+                                <ref target="#limaçon">LIMAçON</ref>
+                             </xr>
+                          </sense>
+                          </entry>
+            
+                          <entry xml:id="limbe">
+                             <form>
+                                <orth>LIMBE</orth>
+                             </form>
+                             <gramGrp>
+                                <pos expand="substantif">s.</pos>
+                                <gen expand="feminin">f.</gen>  
+                             </gramGrp>
+                             <sense>
+                                <usg>Terme de Mathematique.</usg>
+                                <def>C'est le bord
+                                d'un Instrument: &amp; en Astronomie, c'est le bord du So-
+                                   <lb rend="hyphen"/>leil, ou de la Lune, qui apparoit quelquefois lorsque
+                                   le milieu ou le disque en est caché par quelque éclipse
+                                    centrale.</def><note> On observe la hauteur du limbe inferieur
+                                   &amp; celle du <hi rend="italic">limbe</hi> superieur du Soleil , afin d'avoir la
+                                vraie hauteur de cet astre , qui est la hauteur de son cen-
+                                   <lb rend="hyphen"/>tre. En Geometrie on appelle aussi limbe, le bord d'un
+                                   Astrolabe , ou de quelqu'autre instrument à observer,
+                                    qui est divisé par degrez', comme le quarré , le quart
+                                 de nonante , le graphometre, &amp;c. </note>
+                             </sense>
+                             <re>
+                                <form>
+                                   <orth>limbe</orth>
+                                </form>
+                                <usg>Les Medecins Botaniques appellent aussi <hi rend="italic">limbe</hi>
+                                   la bordure des plantes , &amp; celle de leurs fleurs &amp; de leurs
+                                   feuilles.</usg>
+                                </re>
+                              <re>
+                             <form>
+                                <orth>limbes</orth>
+                             </form>
+                             <gramGrp>
+                                <pos expand="substantif">s.</pos>
+                                <gen expand="masculin">m.</gen> 
+                                <number expand="pluriel">plur.</number>
+                             </gramGrp>
+                                <usg>Terme' de Théologie.</usg>
+                                <def n="1">Lieu que <placeName>l'Eglise Romaine</placeName> dit être destiné à recevoir les ames des</def>
+                              </re>
+                                <pb n="105"/>
+                                   <fw>LIM</fw>
+                              <re>
+                                 <def n="2">enfans morts sans baptême, qui n'ont point mérité l'En-
+                                    <lb rend="hyphen"/>fer, à cause qu'ils sont morts dans l'état d'innocence,
+                                 &amp; qui ne peuvent pas entrer eu Paradis, à cause du pe-
+                                    <lb rend="hyphen"/>ché originel. Les enfans dans les <hi rend="italic">limbes</hi> sont privez de
+                                 la vue de Dieu. </def>
+                                 <cit>
+                                    <quote><hi rend="italic">Les Limbes &amp; le purgatoire
+                                       près d'elle sont des lieux de gloire</hi><bibl>VOIT</bibl></quote>
+                                    <etym>Le mot de <hi rend="italic">limbe</hi> au singulier est une licence qu'il ne faut pas
+                                    imiter. <bibl>RICH</bibl> </etym>
+                                 </cit>
+                            </re>
+                             <re>
+                                <form>
+                                   <orth>limbes</orth>
+                                </form>
+                                <def> On appelle aussi de ce nom le lieu ou <placeName>l'Eglise</placeName>
+                                 Romaine croit que les ames des Patriarches attendoient
+                                la redemption du genre humain, &amp; ou l'on dit que <bibl>JE-
+                                   <lb rend="hyphen"/>SUS-CHRIST</bibl> defendit dans le tems qui se passa entre
+                                   sa mort, &amp; sa resurrection, comme l'enseigne <persName>Saint
+                                   Thomas</persName> en sa Somme. On prétend que les Juifs re-
+                                   <lb rend="hyphen"/>çoivent un <hi rend="italic">Limbe,</hi> ou les ames des Peres se reposent ;
+                                   mais cela n'est fondé que sur une distinction de <placeName>l'Enfer</placeName>.</def>
+                                   <cit>
+                                      <quote>
+                                   Ils sont deux parties de la gehenne, l'une au dessus,
+                                   l'autre au dessous, ou les supplices sont plus violens;
+                                   mais c'est le même lieu, &amp; on souffre dans l'un &amp; dans
+                                   l'autre. <bibl>BASN</bibl>.</quote><quote><hi rend="italic"> Histoire des Juifs</hi>. Sur le <hi rend="italic">mont de Christ</hi>
+                                   auprès du <placeName>Lac Lucrin</placeName>, on trouve la bouche de l'ouver-
+                                   <lb rend="hyphen"/>ture par laquelle <persName>Jesus-Christ</persName> décendit dans les <hi rend="italic">limbes</hi> 
+                                   des Peres, &amp; les ramena en triomphe par ce conduit 
+                                   Souterrain, &amp; les enleva dans le ciel du hait de la
+                                   montagne. <bibl>MISSION</bibl></quote></cit>
+                                <etym>Du Latin <foreign rend="italic">limbi</foreign>, comme qui diroit le bord du <placeName>Paradis</placeName> &amp;
+                                celui de <placeName>l'Enfer</placeName>. <bibl>DU CANGE</bibl>.</etym>
+                             </re>     
+                          </entry> 
+            
+                          <entry xml:id="lime">
+                             <form>
+                                <orth>LIME</orth>
+                             </form>
+                             <gramGrp>
+                                <pos expand="substantif">s.</pos>
+                                <gen expand="feminin">f.</gen>  
+                             </gramGrp>
+                             <sense>
+                                <def>Outil servant aux Ouvrier qui travaillent sur 
+                                les metaux, pour les polir, tailler, degrossir, ou
+                                coupper.Elle est faite d'acier trempé,&amp; incisé en
+                                formede plusieurs petits fillons. Il y en a de toutes
+                                fortes de grandeurs , &amp; grosseurs, servant à plusieurs
+                                 usages suivant lesquels on leur donne divers noms.</def>
+                                <cit>
+                                   <quote>Ce
+                                   fer n'est pas assez poli, il y faut encore passer la <hi rend="italic">lime.</hi></quote>
+                                   <quote>Il faut polir cela avce la <hi rend="italic">lime.</hi></quote>
+                                   <quote>Donner deux ou trois coups de <hi rend="italic">lime.</hi></quote>
+                                </cit>
+                                <etym>Lime est formé du <lang>Celtique</lang><hi rend="italic">lin</hi><hi rend="majuscule">PEZRON</hi>. Il vient plutot
+                                du<lang>latin</lang><foreign rend="italic">lima</foreign>fait du <lang>Grec</lang><foreign rend="italic">leios</foreign>,poli.</etym>
+                             </sense>
+                             <re>
+                                <form>
+                                   <orth>LIME DOUCE</orth>
+                                </form>
+                                   <def>est celle qui a la taille fort fine, ou le 
+                                      grain menu</def>. <note><hi rend="italic">Lime batarde</hi>, qui a le grain un peu plus
+                                      gros,</note> <note><hi rend="italic">lime d'allemagne</hi>, faite en <placeName>Allemagne</placeName> de bon
+                                   acier qu'on vend au paquet, ou il y en a depuis 3. jus-
+                                     <lb rend="hyphen"/>qu'à 12.</note> <note><hi rend="italic">lime à feuille de sauge</hi>, qui est demi ronde des
+                                     deux côtez, &amp; un peu platte; </note><note><hi rend="italic">lime de tiers point</hi>, ou à
+                                      trois carnes, qui est triangulaire;</note> <note><hi rend="italic">lime à pignon</hi>, qui est
+                                      taillée comme un couteau, qui ronge les pignons.</note><note> <hi rend="italic">Li-
+                                      <lb rend="hyphen"/>me quarreau</hi>, c'est la plus grosse lime, qui est quarrée
+                                     &amp; trempée à paquet; </note><note><hi rend="italic">lime à bouter</hi>, pour dresser les
+                                     pannetons des clefts;</note><note> <hi rend="italic">limes à potences</hi>, à carlettes,</note> <note><hi rend="italic">lime
+                                     à coutelles</hi>,<note></note> <hi rend="italic">linies ovales</hi></note>,<note> <hi rend="italic">lime en coeur</hi>. Ces petites <hi rend="italic">limes</hi>
+                                     servent à vuider les anneaux des clefs, les écussons ,
+                                     les couronnemens.</note><note> <hi rend="italic">Les limes à dos de carpe</hi>, servent à
+                                     fendre des compas.</note><note> <hi rend="italic">Limes</hi> à queue de rat, pour croi-
+                                     <lb rend="hyphen"/>tre les trous, </note><note><hi rend="italic">limes</hi> rondes,</note><note><hi rend="italic">limes</hi> demi-rondes,</note> <note><hi rend="italic">limes</hi>
+                                     fendues, ou fendues finalement d'un côté pour les em-
+                                     <lb rend="hyphen"/> bases, </note><note><hi rend="italic">limes</hi> qui sont point taillées sur les cotez pour
+                                      fendre &amp; dresser les rateaux des clefs,</note><note><hi rend="italic">limes</hi> coudées qui
+                                      servent à couper &amp; à dresser des cloux à fiches, </note><note><hi rend="italic">limes</hi> à matir, &amp;c</note>     
+                             </re>
+                             <re>
+                                <form>
+                                   <orth>LIME SOURDE,</orth>
+                                </form>
+                                <def><hi rend="italic">Lime de refend,</hi> qui fait l'effet d'une scie.
+                                   Elle est toute enveloppée de plomb, &amp; le manche mê-
+                                      <lb rend="hyphen"/> me, de forre qu'il n'y a que la partie qui scie qui soit
+                                       decouverte. Elle sert à coupper sans bruit les plus 
+                                       grosses barre de fer, pourvû qu'on les enveloppe
+                                       aussi de plomb, sans y laisser rien de decouvert que
+                                       pour le jeu de la <hi rend="italic">lime</hi>.</def> <note>la raison en est, que le
+                                      plomb qui est fort doux empêche le tremoussement
+                                      des parties tant de la <hi rend="italic">lime</hi> que du barreau de fer, qui 
+                                      cause le bruit, comme fait la main qu'on met sur une
+                                      cloche, quand on la frappe.</note>
+                                   <fw>LIM</fw>
+                                <note>La difference des <hi rend="italic">limes &amp; des rapes</hi>, est en ce que les
+                                   <hi rend="italic">limes</hi> sont faites &amp; taillées avec des outils tranchans, &amp;
+                                      les rapes sont piquées avec des ciselets &amp; des burins.</note>
+                             </re>
+                             <re>
+                             <form>
+                                <orth>LIMES</orth>
+                             </form>
+                                <usg>en termes de Chasse,</usg>
+                                <def>se dit des deux dents inferieures du sanglier, qu'on appelle autrement <hi rend="italic">dagues
+                                ou armes de la barre,</hi>&amp; plus communément deffenses. </def>
+                              </re>
+                             <re>
+                                <form>
+                                   <orth>lime</orth>
+                                </form>
+                                <def>se dit figurément
+                                   On dit passer, repasser,la li-
+                                   <lb rend="hyphen"/>me sur un ouvrage de prose ou de poesie, pour dire le
+                                   remanier, le corriger, le polir. Ce Poeme n'est pas
+                                   assez poli, il y faut donner encore un coup de <hi rend="italic"> lime</hi>. </def>
+                                <cit>
+                                   <quote>
+                                      Un
+                                      petit mot, qu'on m'a apporé de votre part, m'a fait
+                                      reprendre la <hi rend="italic"> lime</hi>. <bibl>VOIT.</bibl></quote></cit> <cit><quote>Ceux qui ont travaillé à 
+                                         polir la langue, ont aboli les termes qui leur sembloient
+                                         trop rudes, ou ils ont passé la <hi rend="italic"> lime</hi> pour les adoucir.
+                                         <bibl>BOU</bibl>.</quote></cit><note>On a dit d'un poete qui saisoit des vers fort durs.</note>
+                                <cit>
+                                   <quote><hi rend="italic"> N'attendez pas de lui qu'il polisse ses rimes,
+                                      Il ébrecheroit trop de rabots &amp; de <hi rend="italic"> limes.</hi>
+                                      ...Reprenez cent fois le rabot &amp; la lime.</hi> <bibl>BOIL</bibl></quote>
+                                </cit>
+                                <note>On appelle proverbalement une lime sourde, un sournois,
+                                   un hypocrite qui fait le simple, &amp;  qui laisse pas d'a-
+                                   <lb rend="hyphen"/>voir une malice cachée qui éclate avec le temp</note>
+                             </re>
+                             <re>
+                                <form>
+                                   <orth>lime</orth>
+                                </form>
+                                <def>signifie aussi quelques fruits qui sont des especes de
+                                   limons. Il y a des limes rondes &amp; pleines d'un jus ſort
+                                   doux.</def>
+                                <cit>
+                                   <quote>Des limes douces de Marseille</quote>
+                                </cit>
+                                <cit>
+                                   <quote>
+                                      Nous chargeâ-
+                                      <lb rend="hyphen"/>me: notre canot d'Oranges douces, citrons, &amp; gros-
+                                      ses limes.<bibl>FREZIFR</bibl>.</quote></cit><note>Dans un jardin de Pontoise il y a 
+                                         des fruits qui sont composez d'orange, de citron , &amp;
+                                         de lime.</note><cit><quote>Ce ne sont que les plus gros qui ont les trois
+                                            especes bien marquées.<bibl>FONT</bibl>.</quote></cit> <note>Histoire de l'Acad. des
+                                               Sciences de <date>1712</date>.</note>
+                             </re>
+                             <re>
+                                <form>
+                                   <orth>LIME DE MAREE</orth> ou <orth>Lime de mer</orth>
+                                </form>
+                                C'est l'écume des bords de la mer &amp; des havres que la mer emporte en se
+                                 retirant. FOUR. Ou, selon d'autres, c'est une cer-
+                                   <lb rend="hyphen"/> taine ligne qui paroit autour des cotes, ou la mer a 
+                                   laissé des herbes en se retirant.
+                             </re>
+                          </entry>
+            
+                          <entry xml:id="limenarque">
+                             <form>
+                                <orth>LIMENARQUE</orth>
+                             </form>
+                             <gramGrp>
+                                <pos expand="substantif">s.</pos>
+                                <gen expand="masculin">m.</gen>  
+                             </gramGrp>
+                             <sense>
+                                <usg>Nom d'office &amp; de dignité. </usg>
+                                <def>Capitaine, Gouverneur d'un port. Il en est parlé dans le Code.</def>
+                                <etym> Ce mor est <lang>Grec</lang>&amp; vient de limen, port, &amp; archein,
+                                 commander</etym>
+                             </sense>
+                          </entry>
+            
+                          <entry xml:id="limentin">
+                             <form>
+                                <orth>LIMENTIN</orth>
+                             </form>
+                             <gramGrp>
+                                <pos expand="substantif">s.</pos>
+                                <gen expand="masculin">m.</gen>  
+                             </gramGrp>
+                             <sense>
+                                <usg>Nom d'un Dieu des anciens Romains.</usg>
+                                <def>C'étoit le Dieu qui gardoit le seuil de la porte, qu'on
+                                 appelle en <foreign rend="italic">limen</foreign></def>
+                             </sense>
+                          </entry>
+                          <entry xml:id="limer">
+                             <form>
+                                <orth>LIMER</orth>
+                             </form>
+                             <gramGrp>
+                                <pos expand="verbe">v.</pos>
+                                <pos expand="actif">act.</pos>
+                             </gramGrp>
+                             <sense>
+                                <def>Polir, user le fer avec une lime.
+                                Ce prisonnier a limé les barreaux de sa prison, &amp; s'est éva-
+                                   <lb rend="hyphen"/>dé. Cette platine de pistolet est fort bien limée. Le
+                                   fer bien limé n'est pas si sujet à la rouille.</def>
+                             </sense>
+                             <re>
+                                <form>
+                                   <orth>limer</orth>
+                                </form>
+                                <def>se dit figurément, &amp; signifie, corriger ,
+                                 polir, perfectionner, un ouvrage de prose ou de poe-
+                                   <lb rend="hyphen"/>sie, y mettre la derniere main. Il faut, suivant le con-
+                                   <lb rend="hyphen"/>seil D'Horace , garder un Ouvrage long-tems dans son
+                                   cabinet pour le bien <hi rend="italic">limer</hi>.</def> <cit> <quote>Il faut prendre garde de
+                                    rien ôter de la substance, &amp; de l'agrément du discours,
+                                    à forcer de le <hi rend="italic">limer</hi>, &amp; de le polir. <bibl>BOU</bibl>. </quote></cit><cit><quote> Le stile perd
+                                       sa force &amp; sa vigueur, si on le lime trop. <bibl>BAL</bibl>.</quote></cit><cit><quote> Il faut
+                                   polir, &amp; <hi rend="italic">limer</hi> un Ouvrage, afin d'en ôter une pre-
+                                   <lb rend="hyphen"/>miere rudesse, qui sent le travail de la composition. <bibl>ST.
+                                      EV</bibl></quote></cit>
+                             </re>
+                             <re>
+                                <form>
+                                   <orth>limer</orth>
+                                </form>
+                                <usg>Termes de calines.</usg>
+                                <def> <hi rend="italic">Limer</hi> un marais salant , c'est 
+                                 en ôter avec la bogue , le bouquet , &amp; la ſerrée , les
+                                bouës qui s'y ſont amassées pendant l'hiver.</def>
+                             </re>
+                             
+                          </entry> 
+                          <entry xml:id="limé">
+                             <form>
+                                <orth>LIMÉ</orth>
+                                <orth type="part">ÉE</orth>
+                             </form>
+                             <gramGrp>
+                                <pos expand="participe passée">part.pass.</pos>
+                                <pos expand="adjectif">adj.</pos>
+                             </gramGrp>
+                             <sense>
+                                <cit>
+                                   <quote>Les vers de cet Auteur
+                                   sont bien <hi rend="italic">limez</hi> &amp; polis. Son stile , ses expressions sont
+                                    bien <hi rend="italic">limées</hi></quote>
+                                </cit>
+                             </sense>
+                          </entry>
+            
+                          <entry xml:id="limestre">
+                             <form>
+                                <orth>LIMESTRE</orth>
+                             </form>
+                             <sense>
+                                <def>Serge de <hi rend="italic">limestre</hi></def>
+                                 <cit>
+                                    <quote>C'est une serge drapée,
+                                       &amp; croisée, qui se fait à <placeName>Rouen</placeName>, &amp; à <placeName>Darnetal proche
+                                       de Rouen,</placeName> &amp; qui se saisoit aussi autrefois en <placeName>Espagne</placeName><bibl>MEN</bibl>.</quote>
+                                 <quote>
+                                 On la fabrique de la plus fine laine<placeName> d'Espagne</placeName>.
+                                 On dit qu'on qu'on l'a appellée ainsi du nom de celui qui en a
+                                 fait le premier : ce qui est avancé sans preuve. <bibl>MEN</bibl></quote>
+                               </cit>
+                                <pb n="106"/>
+                                <fw>LIM</fw>
+                              <cit>
+                                 <quote><hi rend="italic">Combien, pour avoir mis leur honneur en sequestre,
+                                    Ont-elles en retours échangé leur</hi> limestre. <bibl>REGNIER</bibl></quote>
+                             </cit>    
+                </sense>
+             </entry> 
+            <entry xml:id="limeure">
+               <form>
+                  <orth>LIMEURE ou LIMURE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen> 
+               </gramGrp>
+               <sense>
+                  <def>Action de limer
+                     Cet Ouvrier est recherché pour sa limûre, à cause
+                     qu'elle est polie &amp; ſort juste.</def>
+               </sense>
+            </entry>
+            
+            <entry xml:id="limier">
+               <form>
+                  <orth>LIMIER</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen> 
+               </gramGrp>
+               <sense>
+                  <def>Gros chien de chasse qui ne parle point,
+                     qui sert à quêtcr le cerf, &amp; autres grandes bêtes &amp; à le
+                     lancer hors de leur ſort. Il y a des <hi rend="italic">limiers</hi> pour le ma-
+                     <lb rend="hyphen"/>tin, &amp; d'autres pour le haut du jour. Mener un <hi rend="italic">limier</hi>
+                     au bois. Dans la Venerie du Roi il y a dix-huit valets
+                     de <hi rend="italic">limiers</hi>.</def>
+                     <cit>
+                        <quote>
+                           <hi rend="italic">Dejà revenu de leur quête, 
+                              Les limiers ont fleuré la bête.</hi><bibl>PERE</bibl>
+                        </quote>
+                     </cit>
+                     <cit>
+                        <quote>
+                           Du Latin <foreign rend="italic">liminarius</foreign> fait de <hi rend="italic">lime</hi>, le seuil de la porte;
+                           parceque c'est le <hi rend="italic">Limier</hi> qui commence la chasse &amp;
+                           fait partir la bête. <bibl>FR. PITHOU</bibl>  
+                        </quote>
+                     </cit>
+               </sense>
+            </entry>
+            <entry xml:id="liminaire">
+               <form>
+                  <orth>LIMINAIRE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="adjectif">adj.</pos>
+                  <gen expand="feminin">f.</gen>
+               </gramGrp>
+               <sense>
+                  <def> Qui est mis au commencement. Il
+                     ne se dit qu'en cette phrase, Epître <hi rend="italic">liminaire</hi>, qu'on
+                     met à l'entrée, &amp; à la tête d'un livre, soit Pour en
+                     faire la Dedicace à. quelcun , soit pour servir de Preſa-
+                     <lb rend="hyphen"/>ce, &amp; avertir le lecteur de quelque close necessaire
+                     pour mieux entendre l'ouvrage. On se sert aussi de
+                     son composé <hi rend="italic">preliminaire</hi> dans les negociations.</def>
+                    <cit>
+                       <quote>
+                     <hi rend="italic">De là vin cet amas d'ouvrages mercenaires, 
+                        Ronds-Aux, ados , ſonnets , Epitres</hi> limiiiaires. <bibl>BOIL</bibl></quote>
+                    </cit>
+                  <etym>Ce mot vient du Latin <foreign rend="italic">limen</foreign>, qui signifie proprement le
+                     pas , le seuil d'une porte, &amp; qui s'est dit pour l'entrée de
+                     quelque édifice que ce ſut &amp; en particulicr pour l'en-
+                     <lb rend="hyphen"/>trée d'une Eglise ,&amp; L'Eglise même, d'où vient qu'on
+                     disoit que les Pelerins alloient <foreign rend="italic">ad limina Apostolarum &amp;
+                     Sanctorum </foreign>; pour dire , alloient viſiter les Saints Lieux
+                     Ils appelloient aussi <foreign rend="italic">liminare</foreign>, les lieux disposez à met-
+                     tre des statuës , ce que nous appellons niches, à cause
+                     qu'il y en avoit plusieurs aux entrées des Eglises.</etym>
+               </sense>
+            </entry>
+            <entry xml:id="limitation">
+               <form>
+                  <orth>LIMITATION</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen>  
+               </gramGrp>
+               <sense>
+                  <def>Fixation , determination d'un ter-
+                     <lb rend="hyphen"/>me, de la valeur d'une chose, prescription de certai-
+                     <lb rend="hyphen"/>nes bornes. La durée de notre vie n'a point de <hi rend="italic">limitation</hi>
+                  certaine. Le prix des charges alloit dans l'excès, sans
+                  la fixation qu'on a ſaire , qui y a apporté de la <hi rend="italic">limitation.</hi>
+                  La puissance Royale dans lcs Royaumes despotiques,
+                  n'a pointde bornes, de <hi rend="italic">limitation</hi>.</def>
+               </sense> 
+               <re>
+                  <form>
+                     <orth>limitation</orth>
+                  </form>
+                   signifie aussi , Restriction, excep-
+                  <lb rend="hyphen"/>tion, modification. Il n'y a point de maxime si gene-
+                  <lb rend="hyphen"/>rale qui n'ait en plusieurs cas quelque <hi rend="italic">limitation</hi> , quelque
+                  exception. Le pouvoir de ces Plenipotentiaires n'est
+                  point si grand qu'il ne souffre quelque limitation. <cit><quote>Don-
+                     <lb rend="hyphen"/>ner une limitation à l’Ordonnance. <bibl>PAT</bibl>.</quote></cit>
+               </re>
+            </entry>
+            <entry xml:id="limiter">
+               <form>
+                  <orth>LIMITER</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="verbe">s.</pos>
+                  <pos expand="actif">act.</pos>
+               </gramGrp>
+               <sense>
+                  <def>Donner des bornes, des limites à
+                  quelque chose; restreindre , modifier. Il ne se dit gue-
+                 <lb rend="hyphen"/> res en parlant des ſrontieres d'un Etat , des bornes d'un
+                  Territoire.</def> <note>Il se dit plus ordinairement en parlant du
+                  prix d'une chos , de l'espace du temps , ou de l'éten-
+                  <lb rend="hyphen"/> duë du pouvoir que l'on donne à quelcun. </note><note>On limite
+                  toûjours le pouvoir d'une procuration, d’un mande-
+                  <lb rend="hyphen"/>ment.</note><note> Un douaire prefix se limite ä. une certaine som-
+                    <lb rend="hyphen"/>me.</note> <cit><quote>On doit ſaire son ,enquête dans le temps qui est
+                        limité, qui est prescrit; L'amou se doit limiter à l’u-
+                    <lb rend="hyphen"/>nion des cœurs.<bibl>SAR</bibl>.</quote></cit> <cit><quote>Les loix fondamentales d'un E—
+                    <lb rend="hyphen"/>tat limitent le pouvoir du Souverain. <bibl>BILUNIV</bibl>.</quote></cit> <cit><quote>Ces
+                    paroles limitent notre substitution.<bibl>PAT</bibl>.</quote></cit> <cit><quote>Limiter un
+                    legs. <bibl>ID</bibl>.</quote></cit>
+               </sense>
+               <re>
+                  <form>
+                     <orth>limité</orth>
+                     <orth type="part">limitée</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="participe passée">part pass.</pos>
+                     <pos expand="adjectif">adj.</pos>
+                  </gramGrp>
+                  <cit>
+                     <quote>
+                        L'esprit de l'homme est
+                        ſort <hi rend="italic">limité</hi>, ses connoissances ne s'étendent pas fort 
+                        loin. Les dignitez é ectives sont <hi rend="italic">limitées</hi> autant qu'il plait
+                        â ceux qui les donnent. <bibl>BAY</bibl>.  
+                     </quote>
+                  </cit>
+               </re>
+            </entry>
+            <entry xml:id="limites">
+               <form>
+                  <orth>LIMITES</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen> 
+                  <number expand="pluriel">plur.</number>  
+               </gramGrp>
+               <sense>
+                  <def>Bornes , extremitez d'un païs,d’u-
+                 <lb rend="hyphen"/> ne Province , d'un Etat, qui le divisent &amp; le separent
+                  d'un autre. Etendre, reculer les <hi rend="italic">limites</hi> d'un Etat.</def><note> Les
+                  Rois ont nommé des Commissaires pour regler les <hi rend="italic">limi-
+                 <lb rend="hyphen"/> tes</hi>, les confins de leurs Royaumes.</note> <note>Ce Seigneur veut
+                 <fw>LIM</fw>
+                 Étendre sa terre au delà de ses naturelles <hi rend="italic">limites</hi>.</note><note>Les Piren-
+                 <lb rend="hyphen"/> nées ſont les <hi rend="italic">limites</hi> de la France &amp; de l'Espagne; la rivie-
+                 <lb rend="hyphen"/>re de Bidasson leur sert de limites.</note><note> L'Espagne est reflerrée
+                 dans ses anciennes <hi rend="italic">limites</hi>.</note> <cit><quote>L'Empire Romain n'avait
+                 d'autres limites que le monde. <bibl>BOU</bibl>.</quote></cit>
+                <note>Les Romains adoroient un Dieu des <hi rend="italic">Limites</hi> sous le nom du
+                Dieu <hi rend="italic">Terme</hi>.</note> 
+               </sense>
+               <re>
+                  <form>
+                     <orth>limites</orth>
+                  </form>
+                  <def>Se dit figurément. Il faut donner des <hi rend="italic">limites</hi> à
+                  ses desirs. La bonté de Dieu n'a point de <hi rend="italic">limites</hi>. On
+                  dit d'un Prince , que son ambition est sans <hi rend="italic">limite</hi>.
+                  qu'elle est demesurée.</def> <cit><quote>Dieu a prescrit aux Empires de
+                  certaines <hi rend="italic">limites</hi> de puissance, &amp; de durée. <bibl>LA R0-
+                     <lb rend="hyphen"/>CHEF</bibl>.</quote></cit> <cit><quote>Le vertus, &amp; les vices ont leurs <hi rend="italic">limites</hi>; &amp;
+                        leurs frontieres comme les Royaumes; <bibl>M Sc</bibl>.</quote></cit><cit><quote> Il n'est
+                  pas toâjours facile de marquer les justes <hi rend="italic">limites</hi> qui ſe-
+                           <lb rend="hyphen"/>parent la verité de l'erreur.<bibl>Boss</bibl>.</quote></cit> <note>On dit aussi, Sortir
+                  des <hi rend="italic">limites</hi> de la raison, pour dire, Etre deraisonnable.</note>
+               </re>
+               <re>
+                  <form>
+                     <orth>limite</orth>
+                  </form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="feminin">f.</gen>  
+                  </gramGrp>
+                  <def> Se dit en Astronomie; la <hi rend="italic">limite septentriana-
+                  le , &amp; la limite Meridionale </hi> , sont les points qu'on a appel-
+                     <lb rend="hyphen"/> <hi rend="italic">le ventre du Dragon</hi> : ils ſont éloignez de 90. degrez des
+                  nœuds de l'Ecliptique, l'un du côté du Septentrion;
+                  l'autre du côté du midi. Ce sont les points de l'excentri-
+                  <lb rend="hyphen"/>  que de la lune les plus éloignez de l'Ecliptique; La lune
+                    est alors à cinq degrez de latitude.</def>
+                  </re>
+            </entry>
+            <entry xml:id="limitrophe">
+               <form>
+                  <orth>LIMITROPHE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="adjectif">adj.</pos>
+                  &amp;
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen> 
+                  &amp;
+                  <gen expand="feminin">f.</gen>  
+               </gramGrp>
+               <sense>
+                 <def> Qui est voisin qui est sur
+                  les limites d'une Province, d'un Etat. Païs <hi rend="italic">limitrophe.</hi>
+                  Terre <hi rend="italic">limitrophe.</hi> La <placeName>Picardie</placeName> est une Province <hi rend="italic">limitrophe</hi>
+                  de Flandres les Etats de l'Empereur de la Chine &amp; ceux
+                  de l'Empereur de Russie sont <hi rend="italic">limitrophes.</hi> On appelloit
+                  autrefois colones <hi rend="italic">limitrophes</hi> , celles qui servoicnt à
+                    marquer les limites entre differens Etats.</def>
+                  <etym>Ce mot signinoit autrefois un fonds destiné à nourrir les
+                  soldats qui étoient sur la frontiere. Il y a un titre au Co-
+                  <lb rend="hyphen"/> de qui porte ce nom. Sa signification à été depuis éten-
+                     <lb rend="hyphen"/>due à plusieurs ſortes de confins.</etym>
+               </sense>
+            </entry>
+            <entry xml:id="liminade">
+               <form>
+                  <orth>LIMINADE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen>   
+               </gramGrp>
+               <sense>
+                  <usg>Terme de Mythologie</usg>
+                  <def>Nymphe d'étang.</def>
+                  <etym>Du Grec <foreign rend="italic">linne</foreign>étang.</etym>
+               </sense>
+            </entry>
+            <entry xml:id="limodorum">
+               <form>
+                  <orth>LIMODORUM</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen>  
+               </gramGrp>
+               <sense>
+               <def>Plante que plusieurs mettent en-
+                  <lb rend="hyphen"/>tre les especes <hi rend="italic">d'Orobanche</hi>.</def> <note>Sa tige est haute d'un pieds
+               envelopée par de petites feuilles qui dont comme des
+               manières de petites guaines.</note><note> Sa fleur ressemble à celle
+               de l'orchis. Son fruit est en quelque matiere semblable
+               à une lanterne à trois côtez , contenant des semences
+               semblables à de la scieure de bois.</note><note> Sa racine est compo-
+                  <lb rend="hyphen"/>sée de grosses sibres longues.</note><note> Toute la plante à une
+                     couleur purpurine foncée ou violette.</note><note> Elle croit aux
+                  lieux humides.</note>
+               </sense> 
+            </entry>
+            <entry xml:id="limoges">
+               <form>
+                  <orth>LIMOGES</orth>
+               </form>
+               <sense>
+                  <def><hi rend="italic">Oeuvre de Limoges, travail de Limoge.</hi> On a ap-
+                  <lb rend="hyphen"/>pelle ainsi autrefois les émaux ; parcequ'il n'y a point dc
+                  lieu au monde ou l'on ait si bien travaillé, ni si bien peint
+                  en émail qu'à <persName><hi rend="italic">Limoges</hi></persName> capitale du Limosin.</def>
+               </sense>
+                  <re>
+                     <form>
+                        <orth>LIMOGES</orth>
+                     </form>
+                   <def>Vieux mot , se disoit autrefois pour, cette; pré.</def>
+                     <etym>Du Grec <foreign rend="italic">leimon &amp; gé</foreign>. <bibl>BOREL</bibl></etym>
+                  </re>
+            </entry>
+            <entry xml:id="limon">
+               <form>
+                  <orth>LIMON</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen> 
+               </gramGrp>
+               <sense>
+                  <def>Sorte de terre grasse, terre detrempée avec
+                     de l'eau, qui fait de la boue.</def> <persName>Adam</persName> fut formé du <hi rend="italic">limon</hi> 
+                  de la terre. <placeName>JESUS-CHRIST</placeName> guérit un aveugle avec du
+                  <hi rend="italic">limon</hi>. L'eau de cette riviere est toûjours trouble &amp; mau-
+                  <lb rend="hyphen"/>vaiſe à boire , à cause qu'elle traine quantité de <hi rend="italic">limon</hi>.
+                  VAUG. Fleuve qui traine beaucoup de sable &amp; de <hi rend="italic">li-
+                 <lb rend="hyphen"/>mon</hi>. ABLAN. Les tanches , les anguilles &amp; quel-
+                  <lb rend="hyphen"/>ques autres poissons se nourrissent de <hi rend="italic">limon</hi>. 
+                  <etym> Du Latin <foreign rend="italic">limus</foreign>, qui signifie la même chose. </etym> 
+               </sense>
+            <re>
+               <form>
+                  <orth>Limon</orth>
+               </form>
+               <def>se dit aussi du sediment, ou de la lie de quelques
+                  corps liquides.</def> <note>Quand de l'eau trouble est rassise , il se
+                     trouve du <hi rend="italic">limon</hi> au fond du vase.</note><cit><quote> L'encre trop vieille se 
+                        gâte , ce n'est plus que du <hi rend="italic">limon</hi>.</quote></cit> 
+            </re>
+               <re>
+                  <form>
+                     <orth>Limon</orth>
+                  </form>
+                  <def>s'employe aussi figurément en quelques façons de
+                  parler, par allusion à la matière dont <persName>Adam</persName>fut formé.</def>
+                  <cit><quote>
+                     <hi rend="italic">On dirait que le Ciel est soumis à sa loi,
+                        Et que Dieu l'a paitri d'autre limon que moi. <bibl>BOIL</bibl>. </hi>  
+                  </quote></cit>
+                  <pb n="107"/>
+                  <fw>LIM</fw>
+                  <cit><quote><hi rend="italic">La Nature vous a formé,
+                     D'un</hi> limon <hi rend="italic">moins grosier que le</hi> limon <hi rend="italic">vulgaire</hi><bibl>DES-H</bibl></quote></cit>
+               </re>
+               <re>
+                  <form>
+                     <orth>limon</orth>
+                  </form>
+                 <def> est aussi une des deux principales pièces de bois
+                  qui composent la charette, entre lesquelles ont met le
+                  plus ſort cheval qui la tire.</def> <cit><quote>Ce cheval ſera bon pour le
+                     <hi rend="italic">limon</hi> pour mettre dans les <hi rend="italic">limons.</hi></quote></cit> <cit><quote>Tout bois n'est pas
+                        propre à faire des <hi rend="italic"> limons.</hi></quote></cit>
+                 <etym><cit><quote>Ce mot vient du Latin <foreign rend="italic">temo , temonis ,</foreign> en changeant le t en
+                    l ; <bibl>MEN</bibl>.</quote></cit> <note>ou bien de <foreign rend="italic">ligemo</foreign>, qui vient à <foreign rend="italic">lingando </foreign>, parce-
+                       qu'on y attache le cheval.</note></etym>
+               </re>
+               <re>
+                  <form>
+                     <orth>limon</orth>
+                  </form>
+                  <usg>en termes de Charpenterie</usg>,<def> est la pièce de bois
+                  qui sert a porter les marches d'un escalier, qui fait la ram-
+                  pe sur laquelle posent les balustres.</def><note>Ils se debitent dans
+                  les forêts de quatre pouces sur huit , ou de cinq pou-
+                  ces sur douze.</note>
+               </re>
+               <re>
+                  <form>
+                    <orth>limon</orth> 
+                  </form>
+                  <def>signifie encore le ſruit du limonnier. Il ne diffe-
+                  rc du citron, qu'en ce qu'il est plus rond, &amp; qu'il a la
+                  peau plus mince.</def> <note>Il y a des <hi rend="italic">limon</hi>: aigres &amp; de doux. Le
+                  jus du <hi rend="italic">limon</hi> aigre ôte les taches d'encre du linge.</note>
+                  <etym>Les Latins les ont aussi appellez <foreign rend="italic">limones </foreign> , ou <foreign rend="italic">mala limania.</foreign>
+                     Du Grec <foreign rend="italic">leimon</foreign>, pré, parceque ce fruit a une couleur
+                  verdâtre avant qu'il soit tout à fait meur, ou parceque
+                  le <hi rend="italic">limonier</hi> a une couleur verte approchante de celle d'un
+                     pré. Selon Monage , le mot <hi rend="italic">limon</hi> est un augmentatif de
+                     l'Espagnol <foreign rend="italic">lima</foreign>: qui signifie petit limon , &amp; qui a eté
+                     ſait de l'Arabe <foreign rend="italic">lim</foreign> qui signifie la même chose.</etym> <note>Voyez</note>
+                  <xr>
+                     <ref target="#limonier">LIMONIER</ref>
+                  </xr> 
+               </re>
+            </entry>
+            <entry xml:id="limonade">
+               <form>
+                  <orth>LIMONADE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">fem.</gen> 
+               </gramGrp>
+               <def>Breuvage qu'on ſait avec de l'eau,
+                  du sucre &amp; du jus de citron , ou limon.</def> <note>On prend de la
+                     limonade en été pour ce rafraichir.</note><note>On en sert aux Dames
+                  qui sont au bal</note>
+            </entry>
+            
+            <entry xml:id="limonadier">
+               <form>
+                  <orth>LIMONADIER ou LIMONADIERE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen>
+                  &amp;
+                  <gen expand="feminin">f.</gen>
+               </gramGrp>
+               <def>Marchand qui vend 
+               de la limonade , &amp; plusieurs autres ſortes de liqueurs,
+               comme eaux de ceriſes , verjus , groseilles , ſramboi-
+               <lb rend="hyphen"/>ses, du sorbet , de l'orengeade , &amp;c.</def>
+               <cit><quote>Ce mot est nouveau en notre langue, les Limonadiers n'ay-
+               <lb rend="hyphen"/>ant été établis à Paris que sous le ministere du Cardi-
+                  <lb rend="hyphen"/>nal Mazarin. <bibl>MEN</bibl></quote></cit>
+            </entry>
+            <entry xml:id="limoniade">
+               <form>
+                  <gramGrp>
+                     <pos expand="substantif">s.</pos>
+                     <gen expand="feminin">f.</gen>
+                  </gramGrp>
+               </form> 
+                  <sense>
+                     <usg>Terme de Mythologie.</usg><def> Nymphe des
+                        prez.</def> <etym>Du Grec <foreign rend="italic">leimon</foreign> , pré.</etym>
+                  </sense>
+               <re>
+                  <form>
+                     <orth>limonier</orth>
+                  </form>
+                  <xr>
+                     <ref target="#limonnier">LIMONNIER</ref> 
+                  </xr>
+               </re>
+            </entry>
+            <entry xml:id="limonium">
+               <form>
+                  <orth>LIMONIUM</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen> 
+               </gramGrp>
+               <sense>
+               <def>Plante dont les feuilles sortent de la
+               racine , ayant la figure de celles du lapathum , mais plus
+               petites , plus lisses, polies , douces au toucher , &amp; d'u-
+               <lb rend="hyphen"/> ne couleur verte gaye.</def> <note>Il s'éleve d'entre elles des ti-
+              <lb rend="hyphen"/>ges ä la hauteur d'un pied, menuës , nuës , jettant plu-
+              <lb rend="hyphen"/>sieurs rameaux.</note><note> Ses fleurs ſont dispersées le long de ces
+               rameaux &amp; tournées presque toûjours en dessous : el-
+              <lb rend="hyphen"/>les sont: composées chacune de cinq feuilles disposées
+               en oeillet, de couleur bleuë pâle , ou blanchâtre, enſer-
+              <lb rend="hyphen"/>mées dans un calice ſait en entonnoir.</note><note> Ses semences sont
+                  oblongues , rougeaîtres, tirant sur le bleu.</note><note> Sa racine
+                     est grosse, rouge, d'un goût astringent.</note><note> Les ſeuilles
+               &amp; la semence du <hi rend="italic">limonium</hi> sont astringentes , elles sont
+               bonnes dans la diarrhée , dans la dyssenterie, dans l'he-
+              <lb rend="hyphen"/>morragie.</note> <cit><quote>En Latin <foreign rend="italic">Limonium maritimum majui.</foreign><bibl>CBAUH</bibl></quote></cit>
+                  <note>Il y a plusieurs autres especes de <hi rend="italic"> limonium</hi>:</note>
+                  <etym>Ce mot vient du Grec <foreign rend="italic">leimon</foreign> , prairie: parcequ'elle croit
+               dans les prez , ou à cause de la belle couleur verte de
+               ses ſeuilles.</etym> 
+               </sense>
+            </entry>
+            <entry xml:id="limonner">
+               <form>
+                  <orth>LIMONNER</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="verbe">v.</pos>
+               </gramGrp>
+               <sense>
+                  <usg> C'est un terme des Eaux &amp; Forêts</usg> , <def>
+                  qui se dit en parlant du bois qui est assez gros pour faire
+                  des limons.</def> <note>Il y a plusieurs endroits où l’on ne couppe
+                     point les bois taillis qu'ils ne <hi rend="italic">limonnent</hi>.</note>  
+               </sense>
+            </entry>
+            <entry xml:id="limonneux">
+               <form>
+                 <orth>LIMONNEUX</orth> 
+                  <orth type="part">EUSE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="adjectif">adj.</pos>
+               </gramGrp>
+               <sense>
+                  <def n="1">Boueux , bourbeux, san-
+                     <lb rend="hyphen"/> geux; plein de bourbe &amp; de limon.</def> <cit><quote>Ce ruisseau qui pas-
+                        <lb rend="hyphen"/>se dans ces prez est ſort <hi rend="italic">limonneux.</hi></quote><quote> La terre est si <hi rend="italic">limon-
+                  <lb rend="hyphen"/>neuse</hi>: dans les prairie: , qu'on ne s'en peut tirer.</quote></cit> <cit><quote>Ils ne
+                  pouvoient asseoir la plante des pieds : à cause des pierres
+                  rondes &amp; <hi rend="italic">limonneuses</hi>, qui les saisoient glisser. <bibl>VAUG</bibl></quote></cit>
+                  <cit><quote>Barbe <hi rend="italic">limonneuse.</hi> <bibl>BOIL.</bibl></quote></cit> <note n="1">Les anguilles, les grenouil-</note>  
+               </sense>
+               <fw>LIM.LIN</fw>
+               <sense>
+                  <note n="2"><lb rend="hyphen"/>les &amp; les tanches sont des poissons <hi rend="italic">limonneux</hi> qui ai-
+                     ment le limon, &amp; qui en sont pleins.</note>
+               </sense>
+            </entry>
+            <entry xml:id="limonnier">
+               <form>
+                  <orth>LIMONNIER</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen>  
+               </gramGrp>
+               <sense>
+                  <def>Cheval qu'on met au limon d'une
+                     charette. Bon <hi rend="italic">limonnier</hi>, fort <hi rend="italic">limonnier.</hi></def> <note>On a de la pei-
+                  <lb rend="hyphen"/>ne à trouver des chevaux assez forts pour être les <hi rend="italic">limon-
+                     <lb rend="hyphen"/>nier:</hi> d'un affût de canon.</note>
+                  <note><bibl>Du Cange</bibl> l'appelle <foreign rend="italic">Equus limonerius.</foreign></note>  
+               </sense>
+               <re>
+                  <form>
+                     <orth>Limmonier</orth>
+                  </form>
+                  <def>se dit aussi de l'arbre qui porte les limonsI
+                  Ses ſeuilles: ces fleurs sont semblables à celles du ci-
+                  <lb rend="hyphen"/>tronnier: on ne sauroit le distinguer que par son fruit
+                  qui est plus rond &amp; dont l'écorce est moins épaisse : Sa
+                  chair est ordinairement moins épaisse: il est divisé en
+                  cellules remplies d'une substance vesiculeuse , pleine de
+                  suc , &amp; dans laquelle se trouvent quelques semences
+                  oblongues. Il y a plusieurs especes de limonnier.</def> <etym>Celui
+                  qu'on appelle <hi rend="italic">limonnier commun,</hi> en Latin ,<foreign rend="italic">limon vulga-
+                  <lb rend="hyphen"/>ris,</foreign> ou <foreign rend="italic">malus limonia acida</foreign>, porte des limons qui sont
+                  couverts d'une écorce jaune ou citrine en dehors , blan-
+                  <lb rend="hyphen"/>che en dedans, odorante principalement en sa superfi-
+                  <lb rend="hyphen"/>cie d'un goût aromatique: leur suc est aigre, ſort
+                  agreable au goût &amp; l'odeur.</etym> <note>L’écorce du limon est
+                  propre pour rejouïr le cœur &amp; le cerveau, pour resister
+                  au venin , pour donner bonne bouche , &amp; pour exciter
+                  l'appetit.</note><note> Le ſuc du limon est cordial &amp; rafraîchiſſant,
+                  il résiste au venin,il calme les ardeurs des fievres, il pre-
+                  <lb rend="hyphen"/>cipite la bile; on en mêle avec de l'eau.</note>
+               </re>
+            </entry>
+            <entry xml:id="limosin">
+               <form>
+                  <orth>LIMOSIN</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen> 
+                  &amp;
+                  <gen expand="feminin">f.</gen>
+                  &amp;
+                  <pos expand="adjectif">adj.</pos>
+               </gramGrp>
+               <sense>
+                  <note>On écrit plus ordinairement <hi rend="italic">limosin</hi></note> 
+               <def>Nom des habi-
+               <lb rend="hyphen"/>tans d'une Province de <placeName>France</placeName> ; mais qui se prend par-
+               <lb rend="hyphen"/> ticulierement pour une espece de Maçons, qui font les
+               murailles avec du moilon  &amp; de la terre ou du mortier.</def>
+                  <note>Les <hi rend="italic">Limosins</hi> ont ſait le mur.</note><note> La plupart de ces maçons
+                  sont <hi rend="italic">Limosins</hi>.</note><note> La langue <hi rend="italic">Limosine</hi> à été ſort vantée par plu-
+                  <lb rend="hyphen"/>sieurs Auteurs.</note><note> Cette langue a beaucoup de monosyllabes,
+                  ce qui marque le genie vif de ceux qui la parloient.</note><note>On
+               dit communément d'un homme qui mange beaucoup de
+               pain, qu'il mange du pain comme un <hi rend="italic">Limousin.</hi></note>
+               </sense>
+            </entry>
+            <entry xml:id="limosinage">
+               <form>
+                  <orth>LIMOSINAGE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="masculin">m.</gen> 
+               </gramGrp>
+               <def>Ouvrage de ces ſortes de Maçons.</def>
+               <cit><quote>Ce bâtiment n'est que du <hi rend="italic">limosinage</hi>.</quote></cit>
+               <note>Voyez</note>
+               <xr>
+                  <ref target="#limosinerie">LIMOSINERIE</ref> &amp;
+               </xr>
+               <note>C'est la même chose</note>
+            </entry>
+            <entry xml:id="limosine">
+               <form>
+                  <orth>LIMOSINE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen>
+               </gramGrp>
+               <sense>
+                  <usg>Terme de Fleuriste</usg>
+               <def>Anemone qui est 
+                  verd, rouge, &amp; blanc</def>
+               </sense>
+            </entry>
+            <entry xml:id="limosinerie">
+               <form>
+                  <orth>LIMOSINERIE ou LIMOSINAGE ou LIMOSINIERE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen> 
+               </gramGrp>
+               <sense>
+                  <usg>Terme de Maçon</usg>
+                  <def>Qui se dit des con-
+                     <lb rend="hyphen"/>structions de murs de ſondemens qui se ſont seule-
+                     <lb rend="hyphen"/>ment avec du moilon ,&amp; du mortier sans paremens de 
+                     pierre: ce qui vient de ce qu'on y employe ordinaire-
+                     <lb rend="hyphen"/>ment des Limosins.</def> <cit><quote>Il y a eu dans ce bâtiment tant de
+                        toiles d'ouvrages de <hi rend="italic">limosinerie</hi>.</quote></cit><cit><quote>C'est peut-être ce qui
+                  est signifié dans Vitruve par le mot <hi rend="italic">emplecton</hi>. <bibl>DAV</bibl>.</quote></cit>
+               </sense>
+            </entry>
+            <entry xml:id="limpide">
+               <form>
+                  <orth>LIMPIDE</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="adjectif">adj.</pos>
+                  <gen expand="masculin">m.</gen>
+                  &amp;
+                  <gen expand="feminin">f.</gen>
+               </gramGrp>
+               <sense>
+                  <def> Clair &amp; net. Ce terme est do-
+                  <lb rend="hyphen"/>gmatique ,  ne se dit que de l’eau , &amp; du vin.</def> <cit><quote>Une
+                source <hi rend="italic">limpide</hi>.</quote><quote>L'eau de roche est <hi rend="italic">limpide</hi>.</quote><quote> Ce vin est
+                 <hi rend="italic">limpide</hi> , clair &amp; rassis.</quote></cit><note> On dit quelquefois que l'urine
+                 est <hi rend="italic">limpide</hi> , lorsqu’elle n'est point chargée &amp; qu'elle
+                  ne laisse aucun sediment.</note><cit><quote> Ce mot n'est pas encore bien
+                  autorisé par l'usage. <bibl>REFL</bibl>.</quote></cit><note>l'Academie ne l'a point mis
+                  dans son Dictionnaire.</note> 
+                  <etym>Du Latin <foreign rend="italic">limpidu</foreign>.</etym>  
+               </sense>
+            </entry>
+            <entry xml:id="limpidité">
+               <form>
+                  <orth>LIMPIDITÉ</orth>
+               </form>
+               <gramGrp>
+                  <pos expand="substantif">s.</pos>
+                  <gen expand="feminin">f.</gen> 
+               </gramGrp>
+               <sense>
+                  <def>Qualité de ce qui est limpide.</def> <cit><quote>La
+                     <hi rend="italic">limpidité</hi> de l'eau est une marque de sa bonté.</quote></cit> <note>Il est peu
+                        en usage.</note><note> Ce mot n'est point dans l'Academie.</note>
+               </sense>
+            </entry>
+            <entry xml:id="limpathique">
+               <form>
+                  <orth>LIMPATHIQUE</orth>
+               </form>
+               <sense>
+                  <note>Voyez</note>
+               <xr>
+                  <ref target="#limpathique">LYMPATHIQUE</ref> &amp;
+               </xr>
+               </sense>   
+            </entry>
+            <fw>LIN</fw>
+         </div>        
+      </body>
+  </text>
+</TEI>
